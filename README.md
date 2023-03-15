@@ -62,7 +62,7 @@ git push --set-upstream origin ccs-feature-branch
 - Click the 'Create Pull Request' button
 - Watch Prisma Cloud perform a code review. Think of the Prisma Cloud code review this way: A Senior Developer on the team (who is super knowledgeable about security) reviews the code and checks to make sure everything is being done correctly and securely. That developer happens to be a Prisma Cloud bot.
 
-## Reset demo environment
+## Reset demo environment - need a change
 
 ```console
 git checkout main
